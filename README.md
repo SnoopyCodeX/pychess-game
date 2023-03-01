@@ -1,8 +1,8 @@
-# Py-Chess Game
+# Py-Chess Game (PVP Only)
+
+***Currently not displaying the state of the game (Draw, Win, Lose)***
 
 A simple chess game made using PyGame
-
----
 
 Thanks to this awesome tutorial by [CodingSpot](https://www.youtube.com/@codingspot):
 [Coding a Complete Chess Game AI With Python (Part 1) | PVP Game Mode](https://www.youtube.com/watch?v=OpL0Gcfn4B4)
