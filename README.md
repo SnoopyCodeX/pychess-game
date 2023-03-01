@@ -15,8 +15,6 @@ Thanks to this awesome tutorial by [CodingSpot](https://www.youtube.com/@codings
 - Press 't' to change theme (green, brown, blue, gray)
 - Press 'r' to reset the game
 
----
-
 # Additional Functions
 
 - Press 'u' to undo last move
